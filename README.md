@@ -3,9 +3,10 @@ All the greedy landlords will be accounted here, make sure to contribute your st
 
 # How to register your experience and greedy behaviour of your landlords
 
-1. Create a file name like this (example : 540202-blk212-#04-1012) ; PINCODE -BLOCK - UNIT NUMBER
-2. OR , Create a file name like this ( example : 540202-blk212-#04-1012-RENTAL-SHARED-May2016-to-June2019 ); RENTAL - SHARED/WHOLE - STARTMONTHYEAR - to - ENDMONTHYEAR
+1. Create a file name like this (example : 540202-blk212) ; PINCODE -BLOCK - UNIT NUMBER (If you are brave enough specify the unit number, otherwise skip it)
+2. OR , Create a file name like this ( example : 540202-blk212-RENTAL-SHARED-May2016-to-June2019 ); RENTAL - SHARED/WHOLE - STARTMONTHYEAR - to - ENDMONTHYEAR
 3. Update the landlord behaviour ( way of extorting money , disturbing behaviour  or rental abuse or mental torture ), more details about how they charge on the deposit while you are not renewing the lease/contract. Ways to avoid these kind of people , your mental disturbance, office pressure due to landlords and stress, conflict with other guests in home due to landlords. Their evas-dropping nature, cunning behviours , fake threatening. 
+4. Make sure, how the unit looks like, east facing/ west facing, plants at front door or whats design on the door, or , grill door, it helps to identify and avoid those owners/landlords.
   
 Dos and Dont's
 1. Make sure avoid the names, their relative names
